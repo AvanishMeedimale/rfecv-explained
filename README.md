@@ -4,5 +4,5 @@ Recursive Feature Elimination Cross Validation (RFECV) is a useful dimensionalit
 This repository is split into three seperate notebooks. The first explains the core concept and functionality of the technique, with the next two exploring more nuances and drawbacks of the technique:
 
 1. [Building up the RFECV technique from scratch](building-rfecv-from-the-ground-up.ipynb)
-2. [The Limitations of the RFECV method (Decision Trees)](tree-based-drawbacks.ipnyb)
-3. [How do correlated features impact this technique?](handling-correlated-features)
+2. [The Limitations of the RFECV method (Decision Trees)](tree-based-drawbacks.ipynb)
+3. [How do correlated features impact this technique?](handling-correlated-features.ipynb)
